@@ -1,5 +1,7 @@
 # 💡 Programmers Algorithm for Java
 
+- 0 단계부터 기초부터 탄탄히 풀어나가는 중입니다,, 0단계 클리어 후 재 얿로드 시작하겠습니다.(23.04.06)
+
 # 📘 Lv.1
 
 - [1. 짝수와 홀수](./Lv1/evenAndOdd.md)

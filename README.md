@@ -4,7 +4,7 @@
 
 # 📘 Lv.0
 
-- [1. 몫 구하기](./Lv0/protractor.md)
+- [1. 몫 구하기](./Lv0/seekingAShare.md)
 - [2. 나머지 구하기](./Lv0/getRest.md)
 - [3. 두 수의 차](./Lv0/subtractionOfTwoNum.md)
 - [4. 두 수의 합](./Lv0/sumOfTwoNum.md)

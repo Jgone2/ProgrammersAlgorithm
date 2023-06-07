@@ -1,61 +1,55 @@
-# 각도기
+# 배열의 평균값
 
 ## 📌 문제 설명
 
-정수 n이 주어질 때, n이하의 짝수를 모두 더한 값을 return 하도록 solution 함수를 작성해주세요.
+정수 배열 numbers가 매개변수로 주어집니다. numbers의 원소의 평균값을 return하도록 solution 함수를 완성해주세요.
 
 ### 제한 조건
 
-- 0 < n ≤ 1000
+- 0 ≤ numbers의 원소 ≤ 1,000
+- 1 ≤ numbers의 길이 ≤ 100
+- 정답의 소수 부분이 .0 또는 .5인 경우만 입력으로 주어집니다.
 
 ### 입출력 예
 
-| n   | result |
-| --- | ------ |
-| 10  | 30     |
-| 4   | 6      |
+| numbers                                      | result |
+| -------------------------------------------- | ------ |
+| [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]              | 5.5    |
+| [89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99] | 94.0   |
 
 # 🧐 접근
 
-제한 조건의 범위를 만족할 시 해당 범위의 짝수를 모두 연산
+반복문을 통해서 배열내의 원소값들을 더하기
 
 ```java
 class Solution {
-    public int solution(int n) {
-        if(0 < n && n <= 1_000) {
-            return IntStream.rangeClosed(0, n)
-                .filter(e -> e % 2 == 0)
-                .sum();
+    public double solution(int[] numbers) {
+        double answer = 0;
+        for(int num : numbers) {
+            answer += num;
         }
-        return -1;
+        answer /= numbers.length;
+        return answer;
     }
 }
 ```
 
 # 💡 풀이
 
-제한 조건에 부합한 값을 얻기 위해 if문을 통해 범위를 지정해주고, stream을 통해 범위 내의 짝수를 모두 더해줌.
-
-> 💡 **추가적으로 알게 된 점**<br />
-> IntStream.rangeClosed()는 두 번째 매개변수의 값도 포함한다.<br />
-> IntStream.range()는 두 번째 매개변수의 값은 포함하지 않는다.
+for 반복문을 사용해서 배열의 원소값들을 answer에 더해주고, 배열의 길이로 나누어 평균을 구함
 
 # 📘 그 외의 풀이
 
-### 1. for문 사용
+### 1. stream 사용
 
-> 💡 반복문에서 초기 값i를 2로 설정한 후 i 값을 2씩 더해주며 순회하면 불필요한 순회를 줄일 수 있다.
+> 💡 stream을 사용해서 배열의 원소값들을 더하고, 평균을 구함
 
 ```java
+import java.util.Arrays;
+
 class Solution {
-    public int solution(int n) {
-        int answer = 0;
-
-        for(int i=2; i<=n; i+=2){
-            answer+=i;
-        }
-
-        return answer;
+    public double solution(int[] numbers) {
+        return Arrays.stream(numbers).average().orElse(0);
     }
 }
 ```

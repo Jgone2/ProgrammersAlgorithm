@@ -1,19 +1,19 @@
 # 💡 Programmers Algorithm for Java
 
-- 0 단계부터 기초부터 탄탄히 풀어나가는 중입니다,, 0단계 클리어 후 재 얿로드 시작하겠습니다.(23.04.06)
+- 0 단계부터 기초부터 탄탄히 풀어나가는 중입니다,, 0단계 클리어 후 재 업로드 시작하겠습니다.(23.04.06)
 
 # 📘 Lv.0
 
-- [1. 몫 구하기](./Lv0/몫 구하기.md)
-- [2. 나머지 구하기](./Lv0/나머지구하기.md)
-- [3. 두 수의 차](./Lv0/두 수의 차.md)
-- [4. 두 수의 합](./Lv0/두 수의 합.md)
-- [5. 두 수의 곱](./Lv0/두 수의 곱.md)
-- [6. 숫자 비교하기](./Lv0/숫자 비교하기.md)
-- [7. 나이 출력](./Lv0/나이 출력.md)
-- [8. 각도기](./Lv0/각도기.md)
-- [9. 짝수의 합](./Lv0/짝수의 합.md)
-- [10. 배열의 평균값](./Lv0/배열의 평균값.md)
+- [1. 몫 구하기](./Lv0/protractor.md)
+- [2. 나머지 구하기](./Lv0/getRest.md)
+- [3. 두 수의 차](./Lv0/subtractionOfTwoNum.md)
+- [4. 두 수의 합](./Lv0/sumOfTwoNum.md)
+- [5. 두 수의 곱](./Lv0/multiplicationOfTwoNum.md)
+- [6. 숫자 비교하기](./Lv0/compareOfNumbers.md)
+- [7. 나이 출력](./Lv0/printAge.md)
+- [8. 각도기](./Lv0/protractor.md)
+- [9. 짝수의 합](./Lv0/sumOfEven.md)
+- [10. 배열의 평균값](./Lv0/averageOfArray.md)
 
 # 📘 Lv.1
 

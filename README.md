@@ -14,6 +14,7 @@
 - [8. 각도기](./Lv0/protractor.md)
 - [9. 짝수의 합](./Lv0/sumOfEven.md)
 - [10. 배열의 평균값](./Lv0/averageOfArray.md)
+- [11. 양꼬치](./Lv0/lambSkewers.md)
 
 # 📘 Lv.1
 

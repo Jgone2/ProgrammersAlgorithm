@@ -36,4 +36,22 @@ class Solution {
 
 # 📘 그 외의 풀이
 
-### ================================================================
+### 1. Stream 사용
+
+> 💡
+
+```java
+import java.util.Arrays;
+import java.util.Comparator;
+
+class Solution {
+    public int solution(int[] numbers) {
+        return Arrays.stream(numbers)
+                .boxed()
+                .sorted(Comparator.reverseOrder())
+                .limit(2L)
+                .reduce(1, Math::multiplyExact);
+    }
+}
+
+```

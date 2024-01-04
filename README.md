@@ -25,6 +25,7 @@
 - [18. 아이스 아메리카노](./Lv0/iceAmericano.md)
 - [19. 배열 뒤집기](./Lv0/reverseArr.md)
 - [20. 옷가게 할인 받기](./Lv0/discountClothing.md)
+- [21. 문자열의 앞의 n글자](./Lv0/nCharBeforeString.md)
 
 # 📘 Lv.1
 

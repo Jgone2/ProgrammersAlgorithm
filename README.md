@@ -29,6 +29,7 @@
 - [22. 뒤에서 5등까지](./Lv0/smallFive.md)
 - [23. 마지막 두 원소](./Lv0/lastTwoElements.md)
 - [24. 배열의 유사도](./Lv0/compareArr.md)
+- [25. 부분 문자열](./Lv0/partOfString.md)
 
 # 📘 Lv.1
 

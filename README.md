@@ -28,6 +28,7 @@
 - [21. 문자열의 앞의 n글자](./Lv0/nCharBeforeString.md)
 - [22. 뒤에서 5등까지](./Lv0/smallFive.md)
 - [23. 마지막 두 원소](./Lv0/lastTwoElements.md)
+- [24. 배열의 유사도](./Lv0/compareArr.md)
 
 # 📘 Lv.1
 

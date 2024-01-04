@@ -21,6 +21,7 @@
 - [14. 배열 원소의 길이](./Lv0/lengthOfArrayElement.md)
 - [15. 삼각형의 완성조건(1)](./Lv0/completionConditionsOfTriangle1.md)
 - [16. 최댓값 만들기(1)](./Lv0/makeMax1.md)
+- [17. 문자 반복 출력하기](./Lv0/repeatCharOutput.md)
 
 # 📘 Lv.1
 

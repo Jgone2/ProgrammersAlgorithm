@@ -22,6 +22,7 @@
 - [15. 삼각형의 완성조건(1)](./Lv0/completionConditionsOfTriangle1.md)
 - [16. 최댓값 만들기(1)](./Lv0/makeMax1.md)
 - [17. 문자 반복 출력하기](./Lv0/repeatCharOutput.md)
+- [18. 아이스 아메리카노](./Lv0/iceAmericano.md)
 
 # 📘 Lv.1
 

@@ -26,6 +26,8 @@
 - [19. 배열 뒤집기](./Lv0/reverseArr.md)
 - [20. 옷가게 할인 받기](./Lv0/discountClothing.md)
 - [21. 문자열의 앞의 n글자](./Lv0/nCharBeforeString.md)
+- [22. 뒤에서 5등까지](./Lv0/smallFive.md)
+- [23. 마지막 두 원소](./Lv0/lastTwoElements.md)
 
 # 📘 Lv.1
 

@@ -24,6 +24,7 @@
 - [17. 문자 반복 출력하기](./Lv0/repeatCharOutput.md)
 - [18. 아이스 아메리카노](./Lv0/iceAmericano.md)
 - [19. 배열 뒤집기](./Lv0/reverseArr.md)
+- [20. 옷가게 할인 받기](./Lv0/discountClothing.md)
 
 # 📘 Lv.1
 

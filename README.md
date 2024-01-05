@@ -35,6 +35,7 @@
 - [28. 배열 두 배 만들기](./Lv0/twiceArr.md)
 - [29. 머쓱이보다 키 큰 사람](./Lv0/tallerThanMeoSSG.md)
 - [30. 글자 이어 붙여 문자열 만들기](./Lv0/charAttachToString.md)
+- [31. 점의 위치 구하기](./Lv0/whereDot.md)
 
 # 📘 Lv.1
 

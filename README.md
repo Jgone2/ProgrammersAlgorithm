@@ -33,6 +33,7 @@
 - [26. 세균 증식](./Lv0/growthOfBacteria.md)
 - [27. 문자열안에 문자열](./Lv0/containString.md)
 - [28. 배열 두 배 만들기](./Lv0/twiceArr.md)
+- [29. 머쓱이보다 키 큰 사람](./Lv0/tallerThanMeoSSG.md)
 
 # 📘 Lv.1
 

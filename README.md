@@ -30,6 +30,7 @@
 - [23. 마지막 두 원소](./Lv0/lastTwoElements.md)
 - [24. 배열의 유사도](./Lv0/compareArr.md)
 - [25. 부분 문자열](./Lv0/partOfString.md)
+- [26. 세균 증식](./Lv0/growthOfBacteria.md)
 
 # 📘 Lv.1
 

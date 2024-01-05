@@ -32,6 +32,7 @@
 - [25. 부분 문자열](./Lv0/partOfString.md)
 - [26. 세균 증식](./Lv0/growthOfBacteria.md)
 - [27. 문자열안에 문자열](./Lv0/containString.md)
+- [28. 배열 두 배 만들기](./Lv0/twiceArr.md)
 
 # 📘 Lv.1
 

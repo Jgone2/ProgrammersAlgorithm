@@ -31,6 +31,7 @@
 - [24. 배열의 유사도](./Lv0/compareArr.md)
 - [25. 부분 문자열](./Lv0/partOfString.md)
 - [26. 세균 증식](./Lv0/growthOfBacteria.md)
+- [27. 문자열안에 문자열](./Lv0/containString.md)
 
 # 📘 Lv.1
 

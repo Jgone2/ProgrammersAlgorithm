@@ -40,6 +40,7 @@
 - [33. 홀짝에 따라 다른 값 반환하기](./Lv0/anotherValueOddEven.md)
 - [34. n개 간격의 원소들](./Lv0/elementsAtNIntervals.md)
 - [35. 자릿수 더하기](./Lv0/addDigits.md)
+- [36. 카운트 다운](./Lv0/countDown.md)
 
 # 📘 Lv.1
 

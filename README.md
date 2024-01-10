@@ -38,6 +38,7 @@
 - [31. 점의 위치 구하기](./Lv0/whereDot.md)
 - [32. 중앙값 구하기](./Lv0/centerValue.md)
 - [33. 홀짝에 따라 다른 값 반환하기](./Lv0/anotherValueOddEven.md)
+- [34. n개 간격의 원소들](./Lv0/elementsAtNIntervals.md)
 
 # 📘 Lv.1
 

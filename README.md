@@ -39,6 +39,7 @@
 - [32. 중앙값 구하기](./Lv0/centerValue.md)
 - [33. 홀짝에 따라 다른 값 반환하기](./Lv0/anotherValueOddEven.md)
 - [34. n개 간격의 원소들](./Lv0/elementsAtNIntervals.md)
+- [35. 자릿수 더하기](./Lv0/addDigits.md)
 
 # 📘 Lv.1
 

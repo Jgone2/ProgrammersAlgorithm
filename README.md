@@ -1,7 +1,5 @@
 # 💡 Programmers Algorithm for Java
 
-- 0 단계부터 기초부터 탄탄히 풀어나가는 중입니다,, 0단계 클리어 후 재 업로드 시작하겠습니다.(23.04.06)
-
 # 📘 Lv.0
 
 - [1. 몫 구하기](./Lv0/seekingAShare.md)
@@ -42,6 +40,7 @@
 - [35. 자릿수 더하기](./Lv0/addDigits.md)
 - [36. 카운트 다운](./Lv0/countDown.md)
 - [37. 뒤에서 5등 위로](./Lv0/fifthFromTheBack.md)
+- [38. 숨어있는 숫자의 덧셈(1)](./Lv0/sumHideNum.md)
 
 # 📘 Lv.1
 

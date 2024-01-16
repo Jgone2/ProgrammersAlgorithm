@@ -44,6 +44,7 @@
 - [39. 피자 나눠 먹기(3)](./Lv0/getPizza3.md)
 - [40. n보다 커질 때까지 더하기](./Lv0/addWhenBiggerThanN.md)
 - [41. 공백으로 구분하기1](./Lv0/separatedBySpace1.md)
+- [42. rny_string](./Lv0/rny_string.md)
 
 # 📘 Lv.1
 

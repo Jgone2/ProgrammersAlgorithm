@@ -50,6 +50,7 @@
 - [45. 대문자로 바꾸기](./Lv0/toUppercase.md)
 - [46. 배열 자르기](./Lv0/cutArray.md)
 - [47. 모음 제거](./Lv0/deleteVowels.md)
+- [48. 제곱 수 판별하기](./Lv0/determinNumberOfSqrt.md)
 
 # 📘 Lv.1
 

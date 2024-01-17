@@ -45,6 +45,7 @@
 - [40. n보다 커질 때까지 더하기](./Lv0/addWhenBiggerThanN.md)
 - [41. 공백으로 구분하기1](./Lv0/separatedBySpace1.md)
 - [42. rny_string](./Lv0/rny_string.md)
+- [43. n번째 원소부터](./Lv0/startNthElement.md)
 
 # 📘 Lv.1
 

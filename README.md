@@ -47,7 +47,8 @@
 - [42. rny_string](./Lv0/rny_string.md)
 - [43. n번째 원소부터](./Lv0/startNthElement.md)
 - [44. 순서 바꾸기](./Lv0/reorder.md)
-- [45. 대문자로 바꾸기]
+- [45. 대문자로 바꾸기](./Lv0/toUppercase.md)
+- [46. 배열 자르기](./Lv0/cutArray.md)
 
 # 📘 Lv.1
 

@@ -53,6 +53,7 @@
 - [48. 제곱 수 판별하기](./Lv0/determinNumberOfSqrt.md)
 - [49. 순서쌍의 개수](./Lv0/numberOfPairs.md)
 - [50. 특정 문자 제거하기](./Lv0/removeSpecificChar.md)
+- [51. 짝수는 싫어요](./Lv0/hateEven.md)
 
 # 📘 Lv.1
 

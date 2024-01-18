@@ -51,6 +51,7 @@
 - [46. 배열 자르기](./Lv0/cutArray.md)
 - [47. 모음 제거](./Lv0/deleteVowels.md)
 - [48. 제곱 수 판별하기](./Lv0/determinNumberOfSqrt.md)
+- [49. 순서쌍의 개수](./Lv0/numberOfPairs.md)
 
 # 📘 Lv.1
 

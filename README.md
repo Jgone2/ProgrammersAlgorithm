@@ -52,6 +52,7 @@
 - [47. 모음 제거](./Lv0/deleteVowels.md)
 - [48. 제곱 수 판별하기](./Lv0/determinNumberOfSqrt.md)
 - [49. 순서쌍의 개수](./Lv0/numberOfPairs.md)
+- [50. 특정 문자 제거하기](./Lv0/removeSpecificChar.md)
 
 # 📘 Lv.1
 

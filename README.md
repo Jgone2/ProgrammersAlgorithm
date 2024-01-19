@@ -63,6 +63,7 @@
 - [58. 문자열 곱하기](./Lv0/multipleOfString.md)
 - [59. 홀짝 구분하기](./Lv0/separateEvenOdd.md)
 - [60. 이어 붙인 수](./Lv0/concatNum.md)
+- [61. 더 크게 합치기](./Lv0/sumMax.md)
 
 # 📘 Lv.1
 

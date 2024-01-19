@@ -61,6 +61,7 @@
 - [56. 정수 부분](./Lv0/valueOfInt.md)
 - [57. 문자열 붙여서 출력하기](./Lv0/appendString.md)
 - [58. 문자열 곱하기](./Lv0/multipleOfString.md)
+- [59. 홀짝 구분하기](./Lv0/separateEvenOdd.md)
 
 # 📘 Lv.1
 

@@ -57,6 +57,7 @@
 - [52. 공배수](./Lv0/sharing.md)
 - [53. flag에 따라 다른 값 반환하기](./Lv0/returnAnotherValue.md)
 - [54. n의 배수](./Lv0/multipleOfN.md)
+- [55. 소문자로 바꾸기](./Lv0/toLowerCase.md)
 
 # 📘 Lv.1
 

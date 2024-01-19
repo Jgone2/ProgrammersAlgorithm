@@ -64,6 +64,7 @@
 - [59. 홀짝 구분하기](./Lv0/separateEvenOdd.md)
 - [60. 이어 붙인 수](./Lv0/concatNum.md)
 - [61. 더 크게 합치기](./Lv0/sumMax.md)
+- [62. 원소들의 곱과 합](./Lv0/sumAndMultipleOfElements.md)
 
 # 📘 Lv.1
 

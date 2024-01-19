@@ -60,6 +60,7 @@
 - [55. 소문자로 바꾸기](./Lv0/toLowerCase.md)
 - [56. 정수 부분](./Lv0/valueOfInt.md)
 - [57. 문자열 붙여서 출력하기](./Lv0/appendString.md)
+- [58. 문자열 곱하기](./Lv0/multipleOfString.md)
 
 # 📘 Lv.1
 

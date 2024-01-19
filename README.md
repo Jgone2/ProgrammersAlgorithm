@@ -67,6 +67,7 @@
 - [62. 원소들의 곱과 합](./Lv0/sumAndMultipleOfElements.md)
 - [63. 문자열로 변환](./Lv0/intToString.md)
 - [64. 수 조작하기 1](./Lv0/changeNum.md)
+- [65. 접두사인지 확인하기](./Lv0/isPrefix.md)
 
 # 📘 Lv.1
 

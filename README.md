@@ -69,6 +69,7 @@
 - [64. 수 조작하기 1](./Lv0/changeNum.md)
 - [65. 접두사인지 확인하기](./Lv0/isPrefix.md)
 - [66. 조건에 맞게 수열 변환하기 1](./Lv0/returnIntArrOnCondition.md)
+- [67. 두 수의 연산값 비교하기](./Lv0/operWithTwoNumCompare.md)
 
 # 📘 Lv.1
 

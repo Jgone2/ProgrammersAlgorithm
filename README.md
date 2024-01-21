@@ -72,6 +72,7 @@
 - [67. 두 수의 연산값 비교하기](./Lv0/operWithTwoNumCompare.md)
 - [68. 카운트 업](./Lv0/countUp.md)
 - [69. 문자열 뒤의 n글자](./Lv0/afterNCharOfString.md)
+- [70. n의 배수 고르기](./Lv0/selectMultipleN.md)
 
 # 📘 Lv.1
 

@@ -71,6 +71,7 @@
 - [66. 조건에 맞게 수열 변환하기 1](./Lv0/returnIntArrOnCondition.md)
 - [67. 두 수의 연산값 비교하기](./Lv0/operWithTwoNumCompare.md)
 - [68. 카운트 업](./Lv0/countUp.md)
+- [69. 문자열 뒤의 n글자](./Lv0/afterNCharOfString.md)
 
 # 📘 Lv.1
 

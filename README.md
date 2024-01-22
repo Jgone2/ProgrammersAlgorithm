@@ -82,6 +82,7 @@
 - [77. 문자열 정수의 합](./Lv0/sumOfIntInString.md)
 - [78. 가위 바위 보](./Lv0/rockSissorsPaper.md)
 - [79. 원하는 문자열 찾기](./Lv0/findStringWhoWant.md)
+- [80. 접미사인지 확인하기](./Lv0/isSuffix.md)
 
 # 📘 Lv.1
 

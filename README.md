@@ -80,6 +80,7 @@
 - [75. 문자열을 정수로 변환하기](./Lv0/stringToInt.md)
 - [76. 대문자와 소문자](./Lv0/switchUpperAndLower.md)
 - [77. 문자열 정수의 합](./Lv0/sumOfIntInString.md)
+- [78. 가위 바위 보](./Lv0/rockSissorsPaper.md)
 
 # 📘 Lv.1
 

@@ -78,6 +78,7 @@
 - [73. 배열 만들기 1](./Lv0/makeArr1.md)
 - [74. 첫 번째로 나오는 음수](./Lv0/firstMinusInArr.md)
 - [75. 문자열을 정수로 변환하기](./Lv0/stringToInt.md)
+- [76. 대문자와 소문자](./Lv0/switchUpperAndLower.md)
 
 # 📘 Lv.1
 

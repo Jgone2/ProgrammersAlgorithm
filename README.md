@@ -73,6 +73,7 @@
 - [68. 카운트 업](./Lv0/countUp.md)
 - [69. 문자열 뒤의 n글자](./Lv0/afterNCharOfString.md)
 - [70. n의 배수 고르기](./Lv0/selectMultipleN.md)
+- [71. 특정한 문자를 대문자로 바꾸기](./Lv0/charToUpperCase.md)
 
 # 📘 Lv.1
 

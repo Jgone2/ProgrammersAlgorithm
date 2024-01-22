@@ -79,6 +79,7 @@
 - [74. 첫 번째로 나오는 음수](./Lv0/firstMinusInArr.md)
 - [75. 문자열을 정수로 변환하기](./Lv0/stringToInt.md)
 - [76. 대문자와 소문자](./Lv0/switchUpperAndLower.md)
+- [77. 문자열 정수의 합](./Lv0/sumOfIntInString.md)
 
 # 📘 Lv.1
 

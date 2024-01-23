@@ -95,6 +95,7 @@
 - [90. 공백으로 구분하기 2](./Lv0/separatedBySpace2.md)
 - [91. 0 떼기](./Lv0/deleteZero.md)
 - [92. 가까운 1 찾기](./Lv0/findAroundOne.md)
+- [93. 배열 비교하기](./Lv0/compareArrLengthSum.md)
 
 # 📘 Lv.1
 

@@ -102,6 +102,7 @@
 - [97. 할 일 목록](./Lv0/todoList.md)
 - [98. 배열의 원소만큼 추가하기](./Lv0/addCountOfElementsInArr.md)
 - [99. ad 제거하기](./Lv0/deleteAD.md)
+- [100. 최댓값 만들기(2)](./Lv0/makeMax2.md)
 
 # 📘 Lv.1
 

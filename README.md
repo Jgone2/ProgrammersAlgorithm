@@ -98,6 +98,7 @@
 - [93. 배열 비교하기](./Lv0/compareArrLengthSum.md)
 - [94. A 강조하기](./Lv0/highlightA.md)
 - [95. 부분 문자열인지 확인하기](./Lv0/checkSubstring.md)
+- [96. 5명씩](./Lv0/fiveHumanSet.md)
 
 # 📘 Lv.1
 

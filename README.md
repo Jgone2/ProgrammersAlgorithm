@@ -103,6 +103,7 @@
 - [98. 배열의 원소만큼 추가하기](./Lv0/addCountOfElementsInArr.md)
 - [99. ad 제거하기](./Lv0/deleteAD.md)
 - [100. 최댓값 만들기(2)](./Lv0/makeMax2.md)
+- [101. 가장 큰 수 찾기](./Lv0/findBiggestNum.md)
 
 # 📘 Lv.1
 

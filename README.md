@@ -87,6 +87,7 @@
 - [82. 개미 군단](./Lv0/antLegion.md)
 - [83. 암호 해독](./Lv0/decoding.md)
 - [84. 배열의 원소 삭제하기](./Lv0/deleteElementsOfArr.md)
+- [85. 길이에 따른 연산](./Lv0/operLengthOfArr.md)
 
 # 📘 Lv.1
 

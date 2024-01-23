@@ -96,6 +96,7 @@
 - [91. 0 떼기](./Lv0/deleteZero.md)
 - [92. 가까운 1 찾기](./Lv0/findAroundOne.md)
 - [93. 배열 비교하기](./Lv0/compareArrLengthSum.md)
+- [94. A 강조하기](./Lv0/highlightA.md)
 
 # 📘 Lv.1
 

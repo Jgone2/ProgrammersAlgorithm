@@ -89,6 +89,7 @@
 - [84. 배열의 원소 삭제하기](./Lv0/deleteElementsOfArr.md)
 - [85. 길이에 따른 연산](./Lv0/operLengthOfArr.md)
 - [86. 배열에서 문자열 대소문자 변환하기](./Lv0/changeUpperLowerInArr.md)
+- [87. 부분 문자열 이어 붙여 문자열 만들기](./Lv0/makeStringAttachArr.md)
 
 # 📘 Lv.1
 

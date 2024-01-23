@@ -85,6 +85,7 @@
 - [80. 접미사인지 확인하기](./Lv0/isSuffix.md)
 - [81. 배열의 길이에 따라 다른 연산하기](./Lv0/operOnLengthOfArr.md)
 - [82. 개미 군단](./Lv0/antLegion.md)
+- [83. 암호 해독](./Lv0/decoding.md)
 
 # 📘 Lv.1
 

@@ -100,6 +100,7 @@
 - [95. 부분 문자열인지 확인하기](./Lv0/checkSubstring.md)
 - [96. 5명씩](./Lv0/fiveHumanSet.md)
 - [97. 할 일 목록](./Lv0/todoList.md)
+- [98. 배열의 원소만큼 추가하기](./Lv0/addCountOfElementsInArr.md)
 
 # 📘 Lv.1
 

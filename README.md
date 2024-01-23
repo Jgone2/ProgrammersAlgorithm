@@ -91,6 +91,7 @@
 - [86. 배열에서 문자열 대소문자 변환하기](./Lv0/changeUpperLowerInArr.md)
 - [87. 부분 문자열 이어 붙여 문자열 만들기](./Lv0/makeStringAttachArr.md)
 - [88. 홀수 vs 짝수](./Lv0/oddvsEven.md)
+- [89. 콜라츠 수열 만들기](./Lv0/makeCollatz.md)
 
 # 📘 Lv.1
 

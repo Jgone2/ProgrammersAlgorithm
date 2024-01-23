@@ -93,6 +93,7 @@
 - [88. 홀수 vs 짝수](./Lv0/oddvsEven.md)
 - [89. 콜라츠 수열 만들기](./Lv0/makeCollatz.md)
 - [90. 공백으로 구분하기 2](./Lv0/separatedBySpace2.md)
+- [91. 0 떼기](./Lv0/deleteZero.md)
 
 # 📘 Lv.1
 

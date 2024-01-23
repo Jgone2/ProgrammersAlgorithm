@@ -92,6 +92,7 @@
 - [87. 부분 문자열 이어 붙여 문자열 만들기](./Lv0/makeStringAttachArr.md)
 - [88. 홀수 vs 짝수](./Lv0/oddvsEven.md)
 - [89. 콜라츠 수열 만들기](./Lv0/makeCollatz.md)
+- [90. 공백으로 구분하기 2](./Lv0/separatedBySpace2.md)
 
 # 📘 Lv.1
 

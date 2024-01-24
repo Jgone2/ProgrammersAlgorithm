@@ -106,6 +106,7 @@
 - [101. 가장 큰 수 찾기](./Lv0/findBiggestNum.md)
 - [102. 주사위의 개수](./Lv0/countDice.md)
 - [103. 직각삼각형 출력하기](./Lv0/printRightTriangle.md)
+- [104. 문자열 바꿔서 찾기](./Lv0/findSwitchString.md)
 
 # 📘 Lv.1
 

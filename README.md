@@ -108,6 +108,7 @@
 - [103. 직각삼각형 출력하기](./Lv0/printRightTriangle.md)
 - [104. 문자열 바꿔서 찾기](./Lv0/findSwitchString.md)
 - [105. 꼬리 문자열](./Lv0/tailString.md)
+- [106. 문자열 정렬하기 (1)](./Lv0/sortString(1).md)
 
 # 📘 Lv.1
 

@@ -111,6 +111,7 @@
 - [106. 문자열 정렬하기 (1)](./Lv0/sortString(1).md)
 - [107. 인덱스 바꾸기](./Lv0/changeIndex.md)
 - [108. x사이의 개수](./Lv0/countBetweenX.md)
+- [109. 특별한 이차원 배열 2](./Lv0/specialTwoDimentionArr2.md)
 
 # 📘 Lv.1
 

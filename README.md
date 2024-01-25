@@ -125,6 +125,7 @@
 - [121. 배열 회전시키기](./Lv0/rotateArr.md)
 - [122. 간단한 식 계산하기](./Lv0/calcSimpleExpression.md)
 - [123. 문자열 잘라서 정렬하기](./Lv0/cutAndSortArr.md)
+- [124. 외계행성의 나이](./Lv0/ageOfExoplanet.md)
 
 # 📘 Lv.1
 

@@ -124,6 +124,7 @@
 - [120. 문자열 돌리기](./Lv0/rotateStr.md)
 - [121. 배열 회전시키기](./Lv0/rotateArr.md)
 - [122. 간단한 식 계산하기](./Lv0/calcSimpleExpression.md)
+- [123. 문자열 잘라서 정렬하기](./Lv0/cutAndSortArr.md)
 
 # 📘 Lv.1
 

@@ -13,7 +13,6 @@
 - [9. 짝수의 합](./Lv0/sumOfEven.md)
 - [10. 배열의 평균값](./Lv0/averageOfArray.md)
 - [11. 양꼬치](./Lv0/lambSkewers.md)
-- [11. 양꼬치](./Lv0/lambSkewers.md)
 - [12. 피자 나눠 먹기(1)](./Lv0/getPizza1.md)
 - [13. 편지](./Lv0/message.md)
 - [14. 배열 원소의 길이](./Lv0/lengthOfArrayElement.md)

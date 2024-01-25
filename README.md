@@ -117,6 +117,7 @@
 - [113. 문자 리스트를 문자열로 변환하기](./Lv0/changeStrArrToStr.md)
 - [114. 주사위 게임 1](./Lv0/diceGame1.md)
 - [115. 조건에 맞게 수열 변환하기 3](./Lv0/returnIntArrOnCondition3.md)
+- [116. 약수 구하기](./Lv0/getDivisor.md)
 
 # 📘 Lv.1
 

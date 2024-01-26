@@ -127,6 +127,7 @@
 - [123. 문자열 잘라서 정렬하기](./Lv0/cutAndSortArr.md)
 - [124. 외계행성의 나이](./Lv0/ageOfExoplanet.md)
 - [125. 숫자 찾기](./Lv0/findNum.md)
+- [126. 주사위 게임 2](./Lv0/diceGame2.md)
 
 # 📘 Lv.1
 

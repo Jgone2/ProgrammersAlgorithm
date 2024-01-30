@@ -141,3 +141,4 @@
 - [5. 자연수 뒤집어 배열로 만들기](./Lv1/longReverseToChArr.md)
 - [6. 문자열 내 p와 y의 개수](./Lv1/countPAndYInStr.md)
 - [7. 정수 제곱근 판별](./Lv1/integerSqrt)
+- [8. x만큼 간격이 있는 n개의 숫자](./Lv1/nSpacedByX.md)

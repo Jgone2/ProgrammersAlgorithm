@@ -130,6 +130,7 @@
 - [126. 주사위 게임 2](./Lv0/diceGame2.md)
 - [127. 9로 나눈 나머지](./Lv0/dividedNine.md)
 - [128. 피자 나눠 먹기(2)](./Lv0/getPizza2.md)
+- [129. 369게임](./Lv0/game369.md)
 
 # 📘 Lv.1
 

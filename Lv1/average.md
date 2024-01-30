@@ -24,60 +24,28 @@ for문을 사용하여 배열 arr속의 값들을 더하고 배열의 length로 
 class Solution {
     public double solution(int[] arr) {
         double answer = 0;
-        for(int n : arr) {
-            answer += n;
-        }
+        for(int n : arr) answer += n;
         answer /= arr.length;
         return answer;
-    }
-
-    public static void main(String[] args) {
-
-        int[] arr1 = {1, 2, 3, 4};
-        int[] arr2 = {5, 5};
-        Solution result = new Solution();
-
-        //result값 출력
-        System.out.println("결과: " + result.solution(arr1));
-        System.out.println("결과: " + result.solution(arr2));
-
     }
 }
 ```
 
 # 💡 풀이
 
-배열 arr 내의 index값을 for문을 사용해서 하나씩 answer에 더합니다.  
-`/`연산자는 나눗셈 연산자입니다.  
-arr의 모든 index값의 합을 저장한 answer을 arr배열의 index길이 만큼 나눠서 평균값을 도출합니다.
+배열 arr 내의 index값을 for문을 사용해서 하나씩 answer에 더한 후, 
+arr의 모든 index값의 합을 저장한 answer을 arr배열의 index길이로 나눗셈 연산 수행
 
 # 📘 그 외의 풀이
 
 ### 1. stream 사용
 
-#### stream()
 
-```text/plain
-stream에 대해서 더 공부하고 풀이를 해보자.
-```
-
-> 💡 stream에 대해서 더 공부하고 풀이를 해보자.
+> 💡 stream에서 `average()`메소드를 사용해 평균값 도출
 
 ```java
 public class Solution {
     public int solution(int[] array) {
-		return (int)Arrays.stream(array).average().orElse(0);
+		return Arrays.stream(arr).average().getAsDouble();
     }
-
-    public static void main(String[] args) {
-        int[] arr1 = {1, 2, 3, 4};
-        int[] arr2 = {5, 5};
-
-        Solution result = new Solution();
-
-        // result값 출력
-        System.out.println("평균값 : " + result.solution(arr1));
-        System.out.println("평균값 : " + result.solution(arr2));
-    }
-}
 ```
